@@ -16,7 +16,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/arkayyy/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/arkayyy/arkayyy/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
 
 -------------------------------------------------------
