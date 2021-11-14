@@ -10,19 +10,19 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> I am Rajarshi Karan</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chakravarthi-v/">
+  <a href="https://www.linkedin.com/in/rajarshi-karan-7a6a77168/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
     </a><span>&nbsp;</span>
-  <a href="https://twitter.com/ChakriVV">
+  <a href="https://twitter.com/emblazex">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="https://www.instagram.com/___chakri_/">
+  <a href="https://www.instagram.com/__emblaze__/">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="mailto:chakravarthiviswanath@gmail.com">
+  <a href="mailto:techsters.business@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="https://github.com/chakravarthi-v">
+  <a href="https://github.com/arkayyy">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
