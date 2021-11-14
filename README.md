@@ -15,8 +15,6 @@
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=arkayyy&theme=chartreuse-dark"></p>
 
 
-------------------------------------------------------
-
 <div>
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
