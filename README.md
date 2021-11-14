@@ -1,5 +1,7 @@
 <!-- ### Hi there 👋 -->
 
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Hello!;Bonjour!" />
+
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
@@ -7,7 +9,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> I am Rajarshi Karan</h1>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Coder;I'm+a+Computer+Science+engineer" />
+
 </p>
 
 <p align="center" width="150px"> I am a self-taught coder and an aspiring software engineer, having an excellent knack <br> for innovative ideas that lead to a sustainable future.</p>
