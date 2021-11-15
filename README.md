@@ -25,6 +25,16 @@
   <a href="https://github.com/arkayyy">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
+  <a href="https://dev.to/arkayyy">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rajarshi Karan's DEV Profile" height="30" width="30">
+  </a>
+  <a href="https://medium.com/@emblaze">
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Rajarshi Karan's Medium Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://www.youtube.com/channel/UCCfLAhBQE0tp-P_bGRdvtig">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Rajarshi Karan's YouTube Channel" height="30" width="30">
+  </a>
 </p>
 
 <p align="center" width="150px"> I am a self-taught coder and an aspiring software engineer, having an excellent knack <br> for innovative ideas that lead to a sustainable future.</p>
