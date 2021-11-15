@@ -40,7 +40,7 @@
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:pavangandhi100@gmail.com?Subject=Hello%20Pavan) 👨‍💻.
 
-### Show some ❤️ by starring some of the repositories!
+
 --------------------------------------
 
 <p align="center"><b>Visitor's Count</b></p>
@@ -91,3 +91,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Show some ❤️ by starring some of the repositories!
