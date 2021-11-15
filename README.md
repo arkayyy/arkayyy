@@ -30,7 +30,7 @@
 <p align="center" width="150px"> I am a self-taught coder and an aspiring software engineer, having an excellent knack <br> for innovative ideas that lead to a sustainable future.</p>
 
 --------------------------------------
-### More about me...
+### More about me... <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50px">
 
 - 🔭 I’m currently working on Node.js, Express.js, React, Graphql, MongoDB, etc 💻.
 - 🌱 I’m currently learning Full Stack Development 🚀.
