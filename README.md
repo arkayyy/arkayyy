@@ -71,6 +71,12 @@
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=arkayyy&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=arkayyy&theme=chartreuse-dark"></p>
 
+![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
+![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
+![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
+![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
+![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
+![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
 
 #### Contribution Graph
 [![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=arkayyy&theme=react-dark)](https://github.com/arkayyy/github-readme-activity-graph)
