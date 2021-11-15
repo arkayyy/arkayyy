@@ -92,5 +92,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-## Show some ❤️ by starring some of the repositories!
+Show some ❤️ by starring some of the repositories!
  </p>
