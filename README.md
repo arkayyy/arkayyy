@@ -38,7 +38,7 @@
 - 📫 Want to know me in a nutshell? Here's my [Portfolio](https://rajarshi-karan.netlify.app/)
 - 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:pavangandhi100@gmail.com?Subject=Hello%20Pavan) 👨‍💻.
+- ⚡ Fun fact: I can keep coding for days without you realising it👨‍💻.
 
 
 --------------------------------------
