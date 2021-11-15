@@ -29,6 +29,20 @@
 
 <p align="center" width="150px"> I am a self-taught coder and an aspiring software engineer, having an excellent knack <br> for innovative ideas that lead to a sustainable future.</p>
 
+--------------------------------------
+### More about me...
+
+- 🔭 I’m currently working on Node.js, Express.js, React, Graphql, MongoDB, etc 💻.
+- 🌱 I’m currently learning Full Stack Development 🚀.
+- 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
+- 📫 How to reach me: pavangandhi100@gmail.com | [LinkedIn](https://linkedin.com/in/iampavangandhi) | [Twitter](https://twitter.com/iampavangandhi) | [Instagram](https://instagram.com/iampavangandhi) | [Portfolio](https://iampavangandhi.github.io/)
+- 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, etc.
+- 💬 Ask me about anything! I am happy to help and guide you.
+- ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:pavangandhi100@gmail.com?Subject=Hello%20Pavan) 👨‍💻.
+
+### Show some ❤️ by starring some of the repositories!
+--------------------------------------
+
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Barkayyy%7D/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkayyy&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
