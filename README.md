@@ -38,7 +38,7 @@
 - 📫 Want to know me in a nutshell? Here's my [Portfolio](https://rajarshi-karan.netlify.app/)
 - 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
-- ⚡ Fun fact: I can keep coding for days without you realizing it👨‍💻
+- ⚡ Fun fact: I can keep coding for days without you even realizing it👨‍💻
 
 
 --------------------------------------
