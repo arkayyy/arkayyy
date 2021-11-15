@@ -91,4 +91,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Show some ❤️ by starring some of the repositories!
+<p align="center">
+## Show some ❤️ by starring some of the repositories!
+ </p>
