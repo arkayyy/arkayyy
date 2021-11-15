@@ -63,7 +63,10 @@
 - ⚡ Fun fact: I can keep coding for days without you even realizing it👨‍💻
 
 
+
 --------------------------------------
+
+### 🛠 &nbsp; Tech Stack &nbsp; <img src = "https://user-images.githubusercontent.com/72148786/141765212-d95de2f6-6761-47f4-99f3-077d7df70df7.gif" width = 20px>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Barkayyy%7D/count.svg" alt="visitor badge"/></p>
